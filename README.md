@@ -1,4 +1,4 @@
-# -Partial-Discharge---Localisation-PD-Loc-Dataset-
+# Partial Discharge - Localisation (PD-Loc) Dataset-
 Partial Discharge - Localization (PD-Loc) Dataset is a specialized dataset focused on the localization and pattern recognition of partial discharges (PD) in cable insulation defects. 
 1. ​​Phase-Resolved Partial Discharge (PRPD) Analysis​​
 PRPD analysis is a ​​traditional and widely used method​​ that plots PD pulses against the phase angle of the AC voltage cycle. It helps in visualizing discharge patterns and identifying insulation defects based on patterns like internal discharges, surface discharges, or corona discharges.
